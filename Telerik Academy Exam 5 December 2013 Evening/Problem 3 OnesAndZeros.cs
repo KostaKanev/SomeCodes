@@ -1,10 +1,10 @@
 ﻿using System;
-public class Program
+public class OnesAndZeros
 {
     public static void Main(string[] args)
     {
         int input = int.Parse(Console.ReadLine());
-        string binary = Convert.ToString(input , 2).PadLeft(32, '0');
+        string binary = Convert.ToString(input, 2).PadLeft(32, '0');
 
         string zeroTopBot = "###";
         string zeroBody = "#.#";
@@ -51,4 +51,3 @@ public class Program
         }
     }
 }
-
