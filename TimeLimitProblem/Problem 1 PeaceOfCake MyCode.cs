@@ -13,7 +13,7 @@ namespace Problem_1___Peace_of_Cake
             decimal denominator = numberB * numberD;
             decimal numerator = (numberA * (denominator / numberB)) + (numberC * (denominator / numberD));
 
-            if (numerator > denominator)
+            if (numerator >= denominator)
             {
                 Console.WriteLine("{0:F0}" , numerator/denominator);
             }
