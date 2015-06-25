@@ -4,7 +4,7 @@ class Cube
 {
     static void Main()
     {
-        int n = 5; // int.Parse(Console.ReadLine());
+        int n = int.Parse(Console.ReadLine());
 
         Console.Write(new string(' ', n - 1));
         Console.Write(new string(':', n));
