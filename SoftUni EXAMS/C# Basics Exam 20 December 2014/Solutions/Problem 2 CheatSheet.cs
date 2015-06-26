@@ -5,17 +5,17 @@ public class CheatSheet
     {
         int rows = int.Parse(Console.ReadLine());
         int cols = int.Parse(Console.ReadLine());
-        int startRow = int.Parse(Console.ReadLine());
-        int startCol = int.Parse(Console.ReadLine());
+        long startRow = int.Parse(Console.ReadLine());
+        long startCol = int.Parse(Console.ReadLine());
 
-        for (int row = startRow; row < startRow + rows; row++)
+        for (long row = startRow; row < startRow + rows; row++)
         {
-            for (int col = startCol; col < startCol + cols; col++)
+            for (long col = startCol; col < startCol + cols; col++)
             {
                 Console.Write(row * col);
                 if (col < startCol + cols - 1)
                 {
-                    Console.Write(" ");
+                    Console.Write(' ');
                 }
             }
             Console.WriteLine();
