@@ -3,7 +3,6 @@ public class Boat
 {
     public static void Main()
     {
-        
         int size = int.Parse(Console.ReadLine());
         int leftDots = size - 1;
 
@@ -30,5 +29,4 @@ public class Boat
         }
         Console.WriteLine();
     }
-
 }
