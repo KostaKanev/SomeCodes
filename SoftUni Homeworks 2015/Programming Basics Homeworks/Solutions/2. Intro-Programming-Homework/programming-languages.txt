@@ -1,0 +1,80 @@
+==============================================================================================================================================================
+Programming Languages Information
+
+1. C#
+2. Java
+3. JavaScript
+4. HTML
+5. PHP
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. C# (C Sharp)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+C# is an elegant and type-safe object-oriented language that enables developers to build a variety of
+secure and robust applications that run on the .NET Framework. You can use C# to create Windows client applications,
+XML Web services, distributed components, client-server applications, database applications, and much, much more.
+Visual C# provides an advanced code editor, convenient user interface designers, integrated debugger, and
+many other tools to make it easier to develop applications based on the C# language and the .NET Framework.
+C# syntax is highly expressive, yet it is also simple and easy to learn. The curly-brace syntax of C# will be
+instantly recognizable to anyone familiar with C, C++ or Java. Developers who know any of these languages are
+typically able to begin to work productively in C# within a very short time. C# syntax simplifies many of
+the complexities of C++ and provides powerful features such as nullable value types, enumerations, delegates,
+lambda expressions and direct memory access
+
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Java
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Java is an object-oriented language similar to C++, but simplified to eliminate language features that cause common programming errors.
+Java source code files (files with a .java extension) are compiled into a format called bytecode (files with a .class extension), 
+which can then be executed by a Java interpreter.
+Compiled Java code can run on most computers because Java interpreters and runtime environments, known as Java Virtual Machines (VMs), 
+exist for most operating systems, including UNIX, the Macintosh OS, and Windows. Bytecode can also be converted directly into 
+machine language instructions by a just-in-time compiler (JIT).Java is a general purpose programming language with a number of features
+that make the language well suited for use on the World Wide Web. Small Java applications are called Java applets and can be downloaded
+from a Web server and run on your computer by a Java-compatible Web browser, such as Netscape Navigator or Microsoft Internet Explorer.
+
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. JavaScript (often shortened to JS)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+JavaScript  is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the
+scripting language for Web pages,but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language
+that is dynamic, and supports object-oriented, imperative, and functional programming styles.Contrary to popular misconception, JavaScript is not 
+"Interpreted Java". In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is 
+intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs,
+such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages.JavaScript can function as 
+both a procedural and an object oriented language. Objects are created programmatically in JavaScript, by attaching methods and properties to 
+otherwise empty objects at run time, as opposed to the syntactic class definitions common in compiled languages like C++ and Java. 
+Once an object has been constructed it can be used as a blueprint (or prototype) for creating similar objects.
+
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. HTML
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Developed by Tim Berners-Lee in 1990, HTML is short for HyperText Markup Language. HTML is used to create electronic documents (called pages) 
+that are displayed on the World Wide Web. Each page contains a series of connections to other pages called hyperlinks. 
+Every web page you see on the Internet is written using one version of HTML code or another. HTML code ensures the proper 
+formatting of text and images so that your Internet browser may display them as they are intended to look. Without HTML, 
+a browser would not know how to display text as elements or load images or other elements. HTML also provides a basic structure of the page, 
+upon which Cascading Style Sheets are overlaid to change its appearance. One could think of HTML as the bones (structure) of a web page, 
+and CSS as its skin (appearance).
+
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.PHP
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for 
+web development and can be embedded into HTML. Instead of lots of commands to output HTML (as seen in C or Perl), PHP pages contain HTML with 
+embedded code that does "something". The PHP code is enclosed in special start and end processing instructions <?php and ?> that allow you 
+to jump into and out of "PHP mode." What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, 
+generating HTML which is then sent to the client. The client would receive the results of running that script,
+but would not know what the underlying code was. You can even configure your web server to process all your HTML files with PHP, 
+and then there's really no way that users can tell what you have up your sleeve. 
+
+==============================================================================================================================================================

@@ -1,0 +1,68 @@
+==============================================================================================================================================================
+Most Popular IDEs Information
+
+1. Microsoft Visual Studio IDE
+2. Eclipse IDE
+3. NetBeans IDE
+4. MonoDevelop IDE
+5. PhpStorm IDE
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Microsoft Visual Studio IDE
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Visual Studio is a complete set of development tools for building ASP.NET Web applications, XML Web Services, desktop applications, and mobile applications.
+Visual Basic, Visual C#, and Visual C++ all use the same integrated development environment (IDE), which enables tool sharing and eases the creation of 
+mixed-language solutions. In addition, these languages use the functionality of the .NET Framework, which provides access to key technologies that simplify 
+the development of ASP Web applications and XML Web Services.
+
+Language Supported: Ajax, ASP.NET, XAML, JavaScript, dynamic HTML, DHTML, Visual Basic, Visual C#, Visual C++, Visual F#, JScript
+
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Eclipse IDE
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Eclipse is an open source community. The Eclipse open source community consists of more than 150 projects covering different aspects of software development.
+Eclipse projects cover lots of different areas, e.g., as a development environment for Java or Android applications. But the Eclipse project also provides 
+very successful runtime components, like the popular Jetty webserver and the Hudson build server.
+
+Language Supported: C, C++, Python, Perl, PHP, Java, Ruby and more
+
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. NetBeans IDE
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Most developers recognize the NetBeans IDE as the original free Java IDE. It is that, and much more! The NetBeans IDE provides support for several languages 
+(PHP, JavaFX, C/C++, JavaScript, etc.) and frameworks.NetBeans is an open-source project dedicated to providing rock solid software development products 
+(the NetBeans IDE and the NetBeans Platform) that address the needs of developers, users and the businesses who rely on NetBeans as a basis for their 
+products; particularly, to enable them to develop these products quickly, efficiently and easily by leveraging the strengths of the Java platform and 
+other relevant industry standards.
+
+Language Supported: C, C++, C++11, Fortan, Assembler
+
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. MonoDevelop IDE
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+MonoDevelop is a free GNOME IDE designed primarily for C# and other .NET languages, but it’s open to most any language and has some variation in supported 
+languages across platforms. MonoDevelop enables the rapid development of  desktop and ASP.NET web applications for Windows, Linux and Mac platforms, 
+with the option to port applications created with Visual Studio to Max and Linux platforms, allowing for a consistent code base across platforms.
+
+Language Supported: C#, Visual Basic, Java (IKVM), C/C++, Python, Boo, Vala
+
+==============================================================================================================================================================
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. PhpStorm IDE
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+JetBrains PhpStorm is a commercial, cross-platform IDE for PHP built on JetBrains' IntelliJ IDEA platform.PhpStorm provides an editor for PHP, HTML and 
+JavaScript with on-the-fly code analysis, error prevention and automated refactorings for PHP and JavaScript code. PhpStorm's code completion supports 
+PHP 5.3, 5.4, 5.5 & 5.6 (modern and legacy projects), including generators, coroutines, the finally keyword, list in foreach, namespaces, closures, 
+traits and short array syntax. It includes a full-fledged SQL editor with editable query results.
+
+Language Supported: PHP, HTML, CSS, JavaScript
+
+==============================================================================================================================================================

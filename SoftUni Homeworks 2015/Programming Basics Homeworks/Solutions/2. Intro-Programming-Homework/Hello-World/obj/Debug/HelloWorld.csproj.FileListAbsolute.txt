@@ -1,0 +1,8 @@
+D:\visual studio 2013 Projects\Intro-Programming-Homework\Hello-World\bin\Debug\Hello-World.exe.config
+D:\visual studio 2013 Projects\Intro-Programming-Homework\Hello-World\bin\Debug\Hello-World.exe
+D:\visual studio 2013 Projects\Intro-Programming-Homework\Hello-World\bin\Debug\Hello-World.pdb
+D:\visual studio 2013 Projects\Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.exe
+D:\visual studio 2013 Projects\Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.pdb
+D:\GitHub Repositories\SomeCodes\SoftUni Homeworks 2015\Programming Basics Homeworks\Solutions\2. Intro-Programming-Homework\Hello-World\bin\Debug\Hello-World.exe.config
+D:\GitHub Repositories\SomeCodes\SoftUni Homeworks 2015\Programming Basics Homeworks\Solutions\2. Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.exe
+D:\GitHub Repositories\SomeCodes\SoftUni Homeworks 2015\Programming Basics Homeworks\Solutions\2. Intro-Programming-Homework\Hello-World\obj\Debug\Hello-World.pdb
