@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\BitSwap\bin\Debug\BitSwap.exe.config
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\BitSwap\bin\Debug\BitSwap.exe
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\BitSwap\bin\Debug\BitSwap.pdb
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\BitSwap\obj\Debug\BitSwap.exe
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\BitSwap\obj\Debug\BitSwap.pdb

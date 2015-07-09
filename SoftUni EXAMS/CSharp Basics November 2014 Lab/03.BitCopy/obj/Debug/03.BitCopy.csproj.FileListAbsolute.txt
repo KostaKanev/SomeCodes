@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\03.BitCopy\bin\Debug\03.BitCopy.exe.config
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\03.BitCopy\bin\Debug\03.BitCopy.exe
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\03.BitCopy\bin\Debug\03.BitCopy.pdb
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\03.BitCopy\obj\Debug\03.BitCopy.exe
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\03.BitCopy\obj\Debug\03.BitCopy.pdb

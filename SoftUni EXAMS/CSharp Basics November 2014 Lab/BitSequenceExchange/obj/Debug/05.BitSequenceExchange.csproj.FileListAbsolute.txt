@@ -1,0 +1,3 @@
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\BitSequenceExchange\bin\Debug\BitSequenceExchange.exe.config
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\BitSequenceExchange\obj\Debug\BitSequenceExchange.exe
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\BitSequenceExchange\obj\Debug\BitSequenceExchange.pdb

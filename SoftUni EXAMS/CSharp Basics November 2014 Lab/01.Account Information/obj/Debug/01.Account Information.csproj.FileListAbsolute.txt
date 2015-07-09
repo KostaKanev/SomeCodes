@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\01.Account Information\bin\Debug\01.Account Information.exe.config
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\01.Account Information\bin\Debug\01.Account Information.exe
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\01.Account Information\bin\Debug\01.Account Information.pdb
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\01.Account Information\obj\Debug\01.Account Information.exe
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\01.Account Information\obj\Debug\01.Account Information.pdb

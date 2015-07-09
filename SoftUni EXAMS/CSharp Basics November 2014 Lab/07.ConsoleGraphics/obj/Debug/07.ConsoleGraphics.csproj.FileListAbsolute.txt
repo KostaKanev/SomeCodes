@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\bin\Debug\07.ConsoleGraphics.exe.config
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\bin\Debug\07.ConsoleGraphics.exe
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\bin\Debug\07.ConsoleGraphics.pdb
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\obj\Debug\07.ConsoleGraphics.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\obj\Debug\07.ConsoleGraphics.exe
+D:\visual studio 2013 Projects\CSharp Basics November 2014 Lab\07.ConsoleGraphics\obj\Debug\07.ConsoleGraphics.pdb
