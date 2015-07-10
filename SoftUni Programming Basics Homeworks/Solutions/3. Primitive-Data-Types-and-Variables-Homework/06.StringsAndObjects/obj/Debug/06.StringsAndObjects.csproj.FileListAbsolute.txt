@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

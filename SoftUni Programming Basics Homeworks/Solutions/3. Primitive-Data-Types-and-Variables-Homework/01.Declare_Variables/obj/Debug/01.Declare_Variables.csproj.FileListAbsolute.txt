@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\01.Declare_Variables\bin\Debug\01.Declare_Variables.exe.config
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\01.Declare_Variables\bin\Debug\01.Declare_Variables.exe
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\01.Declare_Variables\bin\Debug\01.Declare_Variables.pdb
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\01.Declare_Variables\obj\Debug\01.Declare_Variables.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\01.Declare_Variables\obj\Debug\01.Declare_Variables.exe
+D:\visual studio 2013 Projects\Primitive-Data-Types-and-Variables-Homework\01.Declare_Variables\obj\Debug\01.Declare_Variables.pdb
