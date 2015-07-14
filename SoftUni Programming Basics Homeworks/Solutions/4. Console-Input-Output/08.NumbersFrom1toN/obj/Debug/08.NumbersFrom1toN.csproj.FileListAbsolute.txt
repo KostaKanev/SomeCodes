@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\Console-Input-Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+D:\visual studio 2013 Projects\Console-Input-Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
+D:\visual studio 2013 Projects\Console-Input-Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
+D:\visual studio 2013 Projects\Console-Input-Output\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+D:\visual studio 2013 Projects\Console-Input-Output\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb
