@@ -17,31 +17,32 @@ public class BitsExchangeAdvanced
         if (Math.Min(p, q) + k - 1 >= Math.Max(p, q))
         {
             Console.WriteLine("Overlapping!");
+            return;
         }
         else if (p + k - 1 > 31 || q + k - 1 > 31)
         {
             Console.WriteLine("Out of range!");
+            return;
         }
-        else
+        
+        //If checks are success make manipulations
+        Console.Write("Binary number before manipulation: ");
+        Console.WriteLine(Convert.ToString(number, 2).PadLeft(32, '0'));
+            
+        for (int counter = 0; p + counter <= (p + k) - 1; counter++)
         {
-            Console.Write("Binary number before manipulation: ");
-            Console.WriteLine(Convert.ToString(number, 2).PadLeft(32, '0'));
-            
-            for (int counter = 0; p + counter <= (p + k) - 1; counter++)
-            {
-                //Get bit at position 
-                long currentBitP = getBitAtPosition(number, p + counter);
-                long currentBitQ = getBitAtPosition(number, q + counter);
+            //Get bit at position 
+            long currentBitP = getBitAtPosition(number, p + counter);
+            long currentBitQ = getBitAtPosition(number, q + counter);
                 
-                //Set bit at position
-                number = setBitAtPosition(number, currentBitP, q + counter);
-                number = setBitAtPosition(number, currentBitQ, p + counter);
-            }
-            
-            //Print the result
-            Console.WriteLine("Binary number after manipulation:  {0}", Convert.ToString(number,2).PadLeft(32, '0'));
-            Console.WriteLine("Decimal new number: {0}", number);
+            //Set bit at position
+            number = setBitAtPosition(number, currentBitP, q + counter);
+            number = setBitAtPosition(number, currentBitQ, p + counter);
         }
+            
+        //Print the result
+        Console.WriteLine("Binary number after manipulation:  {0}", Convert.ToString(number,2).PadLeft(32, '0'));
+        Console.WriteLine("Decimal new number: {0}", number);
     }
 
     //Method to get bit at given position
