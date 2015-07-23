@@ -24,8 +24,8 @@ public class BitsExchangeAdvanced
             Console.WriteLine("Out of range!");
             return;
         }
-        
-        //If checks are success make manipulations
+
+        //If checks are succeeded make manipulations
         Console.Write("Binary number before manipulation: ");
         Console.WriteLine(Convert.ToString(number, 2).PadLeft(32, '0'));
             
