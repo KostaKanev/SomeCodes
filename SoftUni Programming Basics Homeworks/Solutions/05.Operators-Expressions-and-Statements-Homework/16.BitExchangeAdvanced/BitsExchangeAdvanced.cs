@@ -30,7 +30,6 @@ public class BitsExchangeAdvanced
             for (int counter = 0; p + counter <= (p + k) - 1; counter++)
             {
                 //Get bit at position 
-                
                 long currentBitP = getBitAtPosition(number, p + counter);
                 long currentBitQ = getBitAtPosition(number, q + counter);
                 
