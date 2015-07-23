@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

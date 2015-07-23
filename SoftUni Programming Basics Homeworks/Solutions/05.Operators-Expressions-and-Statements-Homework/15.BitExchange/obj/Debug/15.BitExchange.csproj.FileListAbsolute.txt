@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\15.BitExchange\bin\Debug\15.BitExchange.exe.config
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\15.BitExchange\bin\Debug\15.BitExchange.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\15.BitExchange\bin\Debug\15.BitExchange.pdb
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\15.BitExchange\obj\Debug\15.BitExchange.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\15.BitExchange\obj\Debug\15.BitExchange.pdb

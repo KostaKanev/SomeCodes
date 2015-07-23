@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe.config
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

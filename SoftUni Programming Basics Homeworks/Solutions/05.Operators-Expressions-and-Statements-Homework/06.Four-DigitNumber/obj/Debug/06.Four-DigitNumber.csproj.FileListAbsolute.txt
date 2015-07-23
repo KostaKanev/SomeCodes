@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.exe.config
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\06.Four-DigitNumber\bin\Debug\06.Four-DigitNumber.pdb
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.exe
+D:\visual studio 2013 Projects\Operators-Expressions-and-Statements-Homework\06.Four-DigitNumber\obj\Debug\06.Four-DigitNumber.pdb
