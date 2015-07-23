@@ -29,14 +29,18 @@ public class BitsExchangeAdvanced
             
             for (int counter = 0; p + counter <= (p + k) - 1; counter++)
             {
+                //Get bit at position 
                 long currentBitP = 0;
                 currentBitP = getBitAtPosition(number, p + counter);
                 long currentBitQ = 0;
                 currentBitQ = getBitAtPosition(number, q + counter);
+                
+                //Set bit at position
                 number = setBitAtPosition(number, currentBitP, q + counter);
                 number = setBitAtPosition(number, currentBitQ, p + counter);
             }
             
+            //Print the result
             Console.WriteLine("Binary number after manipulation:  {0}", Convert.ToString(number,2).PadLeft(32, '0'));
             Console.WriteLine("Decimal new number: {0}", number);
         }
