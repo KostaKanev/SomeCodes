@@ -4,7 +4,6 @@ public class FourDigitNumber
 {
     public static void Main()
     {
-        //Read number from console like string
         Console.Write("Enter number: ");
         char a = (char)Console.Read();
         char b = (char)Console.Read();
