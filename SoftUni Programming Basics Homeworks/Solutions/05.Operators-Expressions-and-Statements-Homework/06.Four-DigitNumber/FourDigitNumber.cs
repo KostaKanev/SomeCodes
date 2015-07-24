@@ -9,7 +9,7 @@ class FourDigitNumber
         char[] digits = new char[4];
         int sum = 0;
 
-        //Make array with all digits and calculate its sum
+        //Make array with all digits and calculate their sum
         for (int i = 0; i < digits.Length; i++)
         {
             digits[i] = (char)Console.Read();
