@@ -1,25 +1,20 @@
 ﻿using System;
 
-class FourDigitNumber
+public class FourDigitNumber
 {
-    static void Main()
+    public static void Main()
     {
         //Read number from console like string
         Console.Write("Enter number: ");
-        char[] digits = new char[4];
-        int sum = 0;
-
-        //Make array with all digits and calculate their sum
-        for (int i = 0; i < digits.Length; i++)
-        {
-            digits[i] = (char)Console.Read();
-            sum += digits[i] - '0';
-        }
-
+        char a = (char)Console.Read();
+        char b = (char)Console.Read();
+        char c = (char)Console.Read();
+        char d = (char)Console.Read();
+        
         //Print results
-        Console.WriteLine("The sum of all digits = {0}", sum);
-        Console.WriteLine("Reversed number = {0}{1}{2}{3}", digits[3], digits[2], digits[1], digits[0]);
-        Console.WriteLine("Last digit in the first = {0}{1}{2}{3}", digits[3], digits[0], digits[1], digits[2]);
-        Console.WriteLine("Exchanges digit 2 and 3 = {0}{1}{2}{3}", digits[0], digits[2], digits[1], digits[3]);
+        Console.WriteLine("The sum of all digits = {0}", (a - '0') + (b - '0') + (c - '0') + (d - '0'));
+        Console.WriteLine("Reversed number = {0}{1}{2}{3}", d, c, b, a);
+        Console.WriteLine("Last digit in the first = {0}{1}{2}{3}", d, a, b, c);
+        Console.WriteLine("Exchanges digit 2 and 3 = {0}{1}{2}{3}", a, c, b, d);
     }
 }
