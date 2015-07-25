@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+D:\visual studio 2013 Projects\Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+D:\visual studio 2013 Projects\Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+D:\visual studio 2013 Projects\Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+D:\visual studio 2013 Projects\Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb
