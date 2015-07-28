@@ -10,7 +10,6 @@ public class PlayWithIntDoubleString
         Console.Write("\nYour choice: ");
 
         int choice = int.Parse(Console.ReadLine());
-
         switch (choice)
         {
             case 1:
