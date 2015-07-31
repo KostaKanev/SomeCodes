@@ -33,7 +33,8 @@ public class ZeroSubsets
                 if (list[i] + list[j] == 0)
                 {
                     subsetsCounter++;
-                    Console.WriteLine("Subset {0}: ({1}) + ({2}) = 0",subsetsCounter , list[i], list[j]);
+                    Console.WriteLine("Subset {0}: ({1}) + ({2}) = 0"
+                        ,subsetsCounter , list[i], list[j]);
                     haveZeroSubset = true;
                 }
             }
@@ -48,7 +49,8 @@ public class ZeroSubsets
                     if (list[i] + list[j] + list[k] == 0)
                     {
                         subsetsCounter++;
-                        Console.WriteLine("Subset {0}: ({1}) + ({2}) + ({3}) = 0",subsetsCounter , list[i], list[j], list[k]);
+                        Console.WriteLine("Subset {0}: ({1}) + ({2}) + ({3}) = 0"
+                            ,subsetsCounter , list[i], list[j], list[k]);
                         haveZeroSubset = true;
                     }
                 }
@@ -66,7 +68,8 @@ public class ZeroSubsets
                         if (list[i] + list[j] + list[k] + list[l] == 0)
                         {
                             subsetsCounter++;
-                            Console.WriteLine("Subset {0}: ({1}) + ({2}) + ({3}) + ({4}) = 0",subsetsCounter , list[i], list[j], list[k], list[l]);
+                            Console.WriteLine("Subset {0}: ({1}) + ({2}) + ({3}) + ({4}) = 0"
+                                ,subsetsCounter , list[i], list[j], list[k], list[l]);
                             haveZeroSubset = true;
                         }
                     }
