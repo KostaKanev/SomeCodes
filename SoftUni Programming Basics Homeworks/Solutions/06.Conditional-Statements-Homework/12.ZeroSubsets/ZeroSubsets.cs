@@ -8,23 +8,32 @@ public class ZeroSubsets
         Console.WriteLine("Please enter set of five numbers");
 
         var list = new List<int>();
+        int subsetsCounter = 0;
+        bool haveZeroSubset = false;
+        
         for (int i = 0; i < 5; i++)
         {
             Console.Write("Number {0}: ", i + 1);
             list.Add(int.Parse(Console.ReadLine()));
         }
+
+        Console.WriteLine("\nZero Subsets List\n" + new string('-', 20));
         if (list[0] == 0 && list[1] == 0 &&
-            list[2] == 0 && list[3] == 0 && 
+            list[2] == 0 && list[3] == 0 &&
             list[4] == 0)
         {
-            Console.WriteLine("0 + 0 + 0 + 0 + 0 = 0");
+            subsetsCounter++;
+            Console.WriteLine("Subset {0}: (0) + (0) + (0) + (0) + (0) = 0", subsetsCounter);
             return;
         }
-
-        bool haveZeroSubset = false;
-        int subsetsCounter = 0;
-
-        Console.WriteLine("\nZero Subsets List\n" + new string('-',20));
+        else if (list[0] + list[1] + list[2] + list[3] + list[4] == 0)
+        {
+            subsetsCounter++;
+            Console.WriteLine("Subset {0}: ({1}) + ({2}) + ({3}) + ({4}) = 0"
+                , subsetsCounter, list[0], list[1], list[2], list[3], list[4]);
+            haveZeroSubset = true;
+        }
+        
         //Two elements subsets
         for (int i = 0; i < list.Count - 1; i++)
         {
