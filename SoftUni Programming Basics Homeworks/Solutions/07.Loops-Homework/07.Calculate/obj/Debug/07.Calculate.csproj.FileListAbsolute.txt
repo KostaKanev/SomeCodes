@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\Loops-Homework\07.Calculate\bin\Debug\07.Calculate.exe.config
+D:\visual studio 2013 Projects\Loops-Homework\07.Calculate\bin\Debug\07.Calculate.exe
+D:\visual studio 2013 Projects\Loops-Homework\07.Calculate\bin\Debug\07.Calculate.pdb
+D:\visual studio 2013 Projects\Loops-Homework\07.Calculate\obj\Debug\07.Calculate.exe
+D:\visual studio 2013 Projects\Loops-Homework\07.Calculate\obj\Debug\07.Calculate.pdb
