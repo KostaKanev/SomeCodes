@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\01.TicTacToePower\bin\Debug\01.TicTacToePower.exe.config
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\01.TicTacToePower\bin\Debug\01.TicTacToePower.exe
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\01.TicTacToePower\bin\Debug\01.TicTacToePower.pdb
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\01.TicTacToePower\obj\Debug\01.TicTacToePower.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\01.TicTacToePower\obj\Debug\01.TicTacToePower.exe
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\01.TicTacToePower\obj\Debug\01.TicTacToePower.pdb

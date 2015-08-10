@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\03.Stars\bin\Debug\03.Stars.exe.config
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\03.Stars\bin\Debug\03.Stars.exe
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\03.Stars\bin\Debug\03.Stars.pdb
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\03.Stars\obj\Debug\03.Stars.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\03.Stars\obj\Debug\03.Stars.exe
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\03.Stars\obj\Debug\03.Stars.pdb
