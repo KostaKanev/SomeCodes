@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\05.XBits\bin\Debug\05.XBits.exe.config
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\05.XBits\bin\Debug\05.XBits.exe
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\05.XBits\bin\Debug\05.XBits.pdb
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\05.XBits\obj\Debug\05.XBits.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\05.XBits\obj\Debug\05.XBits.exe
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\05.XBits\obj\Debug\05.XBits.pdb

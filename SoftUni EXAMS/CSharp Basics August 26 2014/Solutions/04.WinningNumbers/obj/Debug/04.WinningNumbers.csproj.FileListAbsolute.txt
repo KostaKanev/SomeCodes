@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\04.WinningNumbers\bin\Debug\04.WinningNumbers.exe.config
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\04.WinningNumbers\bin\Debug\04.WinningNumbers.exe
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\04.WinningNumbers\bin\Debug\04.WinningNumbers.pdb
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\04.WinningNumbers\obj\Debug\04.WinningNumbers.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\04.WinningNumbers\obj\Debug\04.WinningNumbers.exe
+D:\visual studio 2013 Projects\CSharp Basics Exam 26 August 2014\04.WinningNumbers\obj\Debug\04.WinningNumbers.pdb
