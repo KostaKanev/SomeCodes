@@ -1,0 +1,12 @@
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\04.LightTheTorches\bin\Debug\04.LightTheTorches.exe.config
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\04.LightTheTorches\bin\Debug\04.LightTheTorches.exe
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\04.LightTheTorches\bin\Debug\04.LightTheTorches.pdb
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\04.LightTheTorches\obj\Debug\04.LightTheTorches.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\04.LightTheTorches\obj\Debug\04.LightTheTorches.exe
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\04.LightTheTorches\obj\Debug\04.LightTheTorches.pdb
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\04.LightTheTorches\bin\Debug\04.LightTheTorches.exe.config
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\04.LightTheTorches\obj\Debug\04.LightTheTorches.exe
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\04.LightTheTorches\obj\Debug\04.LightTheTorches.pdb
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\04.LightTheTorches\bin\Debug\04.LightTheTorches.exe
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\04.LightTheTorches\bin\Debug\04.LightTheTorches.pdb
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\04.LightTheTorches\obj\Debug\04.LightTheTorches.csprojResolveAssemblyReference.cache

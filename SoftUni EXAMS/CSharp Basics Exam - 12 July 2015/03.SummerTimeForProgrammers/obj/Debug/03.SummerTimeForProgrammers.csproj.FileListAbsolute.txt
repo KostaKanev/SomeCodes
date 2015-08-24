@@ -1,0 +1,12 @@
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\bin\Debug\03.SummerTimeForProgrammers.exe.config
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\bin\Debug\03.SummerTimeForProgrammers.exe
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\bin\Debug\03.SummerTimeForProgrammers.pdb
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\obj\Debug\03.SummerTimeForProgrammers.exe
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\obj\Debug\03.SummerTimeForProgrammers.pdb
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\obj\Debug\03.SummerTimeForProgrammers.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\bin\Debug\03.SummerTimeForProgrammers.exe.config
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\obj\Debug\03.SummerTimeForProgrammers.exe
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\obj\Debug\03.SummerTimeForProgrammers.pdb
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\bin\Debug\03.SummerTimeForProgrammers.exe
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\bin\Debug\03.SummerTimeForProgrammers.pdb
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\03.SummerTimeForProgrammers\obj\Debug\03.SummerTimeForProgrammers.csprojResolveAssemblyReference.cache

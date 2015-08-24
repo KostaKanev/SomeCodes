@@ -1,0 +1,9 @@
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\01.FourFactors\bin\Debug\01.FourFactors.exe.config
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\01.FourFactors\bin\Debug\01.FourFactors.exe
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\01.FourFactors\bin\Debug\01.FourFactors.pdb
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\01.FourFactors\obj\Debug\01.FourFactors.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\01.FourFactors\obj\Debug\01.FourFactors.exe
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\01.FourFactors\obj\Debug\01.FourFactors.pdb
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\01.FourFactors\bin\Debug\01.FourFactors.exe.config
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\01.FourFactors\obj\Debug\01.FourFactors.exe
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\01.FourFactors\obj\Debug\01.FourFactors.pdb

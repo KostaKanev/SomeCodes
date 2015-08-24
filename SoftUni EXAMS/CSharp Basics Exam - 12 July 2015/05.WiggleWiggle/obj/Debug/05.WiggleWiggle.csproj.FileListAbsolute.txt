@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\05.WiggleWiggle\bin\Debug\05.WiggleWiggle.exe.config
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\05.WiggleWiggle\obj\Debug\05.WiggleWiggle.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\05.WiggleWiggle\bin\Debug\05.WiggleWiggle.exe
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\05.WiggleWiggle\bin\Debug\05.WiggleWiggle.pdb
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\05.WiggleWiggle\obj\Debug\05.WiggleWiggle.exe
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\05.WiggleWiggle\obj\Debug\05.WiggleWiggle.pdb

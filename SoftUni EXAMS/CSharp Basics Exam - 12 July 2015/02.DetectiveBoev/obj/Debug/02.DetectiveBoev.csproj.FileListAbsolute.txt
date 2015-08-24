@@ -1,0 +1,9 @@
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.exe.config
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.exe
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.pdb
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.exe
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.pdb
+D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\02.DetectiveBoev\bin\Debug\02.DetectiveBoev.exe.config
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.exe
+E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\02.DetectiveBoev\obj\Debug\02.DetectiveBoev.pdb
