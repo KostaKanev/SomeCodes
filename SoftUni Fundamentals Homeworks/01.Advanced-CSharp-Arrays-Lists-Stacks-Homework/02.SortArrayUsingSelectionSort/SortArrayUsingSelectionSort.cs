@@ -14,26 +14,28 @@ public class SortArrayUsingSelectionSort
             numbers[i] = int.Parse(input[i]);
         }
         
-        int counts = 0;
-        int helper = 0;
-
+        //Sort the array using sorting algorithm
+        int swapsCount = 0;
+        int lastChangedIndex = numbers.Length - 1;
         do
         {
-            counts = 0;
+            swapsCount = 0;
             
-            for (int index = 0; index < numbers.Length - 1; index++)
+            for (int index = 0; index < lastChangedIndex; index++)
             {
                 if (numbers[index] > numbers[index + 1])
                 {
-                    helper = numbers[index];
+                    int temp = numbers[index];
                     numbers[index] = numbers[index + 1];
-                    numbers[index + 1] = helper;
+                    numbers[index + 1] = temp;
 
-                    counts++;
+                    swapsCount++;
                 }
             }
-        } while (counts != 0);
+            lastChangedIndex--;
+        } while (swapsCount != 0);
 
+        //Print the sorted array
         foreach (var item in numbers)
         {
             Console.Write(item + " ");
