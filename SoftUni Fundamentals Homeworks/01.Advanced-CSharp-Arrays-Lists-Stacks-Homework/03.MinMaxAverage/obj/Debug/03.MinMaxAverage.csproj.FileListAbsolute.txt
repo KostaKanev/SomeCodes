@@ -1,0 +1,6 @@
+E:\GitHub Repositories\SomeCodes\SoftUni Fundamentals Homeworks\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.exe.config
+E:\GitHub Repositories\SomeCodes\SoftUni Fundamentals Homeworks\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.exe
+E:\GitHub Repositories\SomeCodes\SoftUni Fundamentals Homeworks\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.pdb
+E:\GitHub Repositories\SomeCodes\SoftUni Fundamentals Homeworks\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.csprojResolveAssemblyReference.cache
+E:\GitHub Repositories\SomeCodes\SoftUni Fundamentals Homeworks\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.exe
+E:\GitHub Repositories\SomeCodes\SoftUni Fundamentals Homeworks\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.pdb

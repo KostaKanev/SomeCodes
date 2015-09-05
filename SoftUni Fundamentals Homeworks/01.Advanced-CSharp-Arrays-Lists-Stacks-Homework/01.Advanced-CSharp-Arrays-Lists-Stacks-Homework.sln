@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortArrayOfNumbers", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SortArrayUsingSelectionSort", "02.SortArrayUsingSelectionSort\02.SortArrayUsingSelectionSort.csproj", "{B56E5EB4-26C0-440F-B823-F572EA611AAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MinMaxAverage", "03.MinMaxAverage\03.MinMaxAverage.csproj", "{3D171342-E97D-48E1-8BAC-A822D7BF2DB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B56E5EB4-26C0-440F-B823-F572EA611AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B56E5EB4-26C0-440F-B823-F572EA611AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B56E5EB4-26C0-440F-B823-F572EA611AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D171342-E97D-48E1-8BAC-A822D7BF2DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D171342-E97D-48E1-8BAC-A822D7BF2DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D171342-E97D-48E1-8BAC-A822D7BF2DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D171342-E97D-48E1-8BAC-A822D7BF2DB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
