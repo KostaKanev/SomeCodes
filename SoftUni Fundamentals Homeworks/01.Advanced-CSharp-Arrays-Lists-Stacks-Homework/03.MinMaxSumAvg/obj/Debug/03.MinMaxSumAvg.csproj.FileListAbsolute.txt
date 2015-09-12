@@ -1,6 +1,0 @@
-D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxSumAvg\bin\Debug\03.MinMaxSumAvg.exe.config
-D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxSumAvg\bin\Debug\03.MinMaxSumAvg.exe
-D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxSumAvg\bin\Debug\03.MinMaxSumAvg.pdb
-D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxSumAvg\obj\Debug\03.MinMaxSumAvg.csprojResolveAssemblyReference.cache
-D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxSumAvg\obj\Debug\03.MinMaxSumAvg.exe
-D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\03.MinMaxSumAvg\obj\Debug\03.MinMaxSumAvg.pdb
