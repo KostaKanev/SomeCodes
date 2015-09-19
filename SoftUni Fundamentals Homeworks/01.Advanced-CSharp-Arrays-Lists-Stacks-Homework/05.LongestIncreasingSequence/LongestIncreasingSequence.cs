@@ -1,84 +1,67 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-
+using System.Linq;
 public class LongestIncreasingSequence
 {
-    public static void Main()
+    public static void Main() //Kosta.Kanev
     {
-
-        string[] input = Console.ReadLine().Split();
-        int[] numbers = new int[input.Length];
-
-        for (int i = 0; i < input.Length; i++)
-        {
-            numbers[i] = int.Parse(input[i]);
-        }
-
-        List<List<int>> sequences = new List<List<int>>();
+        //Using a few methods and lambda expression to convert input string to int array
+        int[] numbers = Console.ReadLine().Split().Select(element => int.Parse(element)).ToArray();
+        
+        var sequences = new List<List<int>>();
         sequences.Add(new List<int>());
-        int currentSequence = 0;
-        List<int> longestSequence = new List<int>();
-        int index = 1;
-        for (int i = 0; i < numbers.Length; i++, index++)
+        int lastElement = 1;
+        for (int index = 0, currentSequence = 0; index < numbers.Length; index++, lastElement++)
         {
-            
-            if (index == numbers.Length && numbers[numbers.Length - 1] > numbers[numbers.Length - 2])
+            //Next two IFs - Check the last element whether can be added to the current sequence or need new collection for it
+            if (lastElement == numbers.Length && numbers[numbers.Length - 1] > numbers[numbers.Length - 2])
             {
-                sequences[currentSequence].Add(numbers[index - 1]);
+                sequences[currentSequence].Add(numbers[lastElement - 1]);
                 break;
-            }
-            else if(index == numbers.Length)
+            } 
+            else if(lastElement == numbers.Length)
             {
                 sequences.Add(new List<int>()); 
                 currentSequence++;
-                sequences[currentSequence].Add(numbers[i]);
-                    
+                sequences[currentSequence].Add(numbers[index]);
                 break;
             }
-
-            if (numbers[i + 1] > numbers[i])
+            
+            //If element isn't the last, check element on position INDEX and INDEX + 1 for bigger
+            if (numbers[index + 1] > numbers[index])
             {
-                sequences[currentSequence].Add(numbers[i]);
+                sequences[currentSequence].Add(numbers[index]);
             }
+            //If element on position INDEX + 1 is smaller than element on INDEX, make new collection for a next sequence
             else
             {
-                sequences[currentSequence].Add(numbers[i]);
+                sequences[currentSequence].Add(numbers[index]);
                 sequences.Add(new List<int>());
                 currentSequence++;
             }
         }
 
+        //Searching for biggest sequence
+        var longestSequence = new List<int>();
+        longestSequence = sequences[0];
         for (int i = 0; i < sequences.Count; i++)
         {
+            //Remove sequence if count == 0 //BUG FIX :P
             if (sequences[i].Count == 0)
             {
                 sequences.Remove(sequences[i]);
             }
-        }
-
-        longestSequence = sequences[0];
-        for (int i = 0; i < sequences.Count; i++)
-        {
+            //Check longest sequence
             if (sequences[i].Count > longestSequence.Count)
             {
                 longestSequence = sequences[i];
             }
         }
-
+        //Print all sequences and Longest to last line
         for (int i = 0; i < sequences.Count; i++)
         {
-            for (int j = 0; j < sequences[i].Count; j++)
-            {
-                Console.Write(sequences[i][j] + " ");
-            }
-            Console.WriteLine();
+            Console.WriteLine(string.Join(" ", sequences[i]));
         }
-
-        Console.Write("Longest: ");
-        foreach (var item in longestSequence)
-        {
-            Console.Write(item + " ");
-        }
-        Console.WriteLine();
+        Console.WriteLine("Longest: {0}", string.Join(" ", longestSequence));
     }
 }
