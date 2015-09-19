@@ -1,26 +1,17 @@
-﻿using System;
-
+using System;
+using System.Linq;
 public class SortArrayUsingSelectionSort
 {
     public static void Main()
     {
-        //Read numbers with spaces like string
-        string[] input = Console.ReadLine().Split(' ');
-        int[] numbers = new int[input.Length];
-
-        //Transfer parsed to integer numbers in int array
-        for (int i = 0; i < numbers.Length; i++)
-        {
-            numbers[i] = int.Parse(input[i]);
-        }
-        
+        int[] numbers = Console.ReadLine().Split().Select(element => int.Parse(element)).ToArray();
+       
         int counts = 0;
         int helper = 0;
 
         do
         {
             counts = 0;
-            
             for (int index = 0; index < numbers.Length - 1; index++)
             {
                 if (numbers[index] > numbers[index + 1])
@@ -34,10 +25,6 @@ public class SortArrayUsingSelectionSort
             }
         } while (counts != 0);
 
-        foreach (var item in numbers)
-        {
-            Console.Write(item + " ");
-        }
-        Console.WriteLine();
+        Console.WriteLine(string.Join(" ", numbers));
     }
 }
