@@ -1,0 +1,6 @@
+D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\Test\bin\Debug\Test.exe.config
+D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\Test\bin\Debug\Test.exe
+D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\Test\bin\Debug\Test.pdb
+D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\Test\obj\Debug\MastrixMultiplication.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\Test\obj\Debug\Test.exe
+D:\visual studio 2013 Projects\01.Advanced-CSharp-Arrays-Lists-Stacks-Homework\Test\obj\Debug\Test.pdb
