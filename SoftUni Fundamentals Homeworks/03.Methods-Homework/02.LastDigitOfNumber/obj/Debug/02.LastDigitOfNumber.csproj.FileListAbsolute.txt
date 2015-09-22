@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\03.Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+D:\visual studio 2013 Projects\03.Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+D:\visual studio 2013 Projects\03.Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+D:\visual studio 2013 Projects\03.Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+D:\visual studio 2013 Projects\03.Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
