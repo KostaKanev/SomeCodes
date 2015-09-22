@@ -1,0 +1,5 @@
+C:\Users\Koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
+C:\Users\Koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe
+C:\Users\Koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.pdb
+C:\Users\Koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
+C:\Users\Koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb

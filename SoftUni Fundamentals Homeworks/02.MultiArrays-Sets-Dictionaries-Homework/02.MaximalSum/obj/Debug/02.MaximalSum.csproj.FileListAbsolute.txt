@@ -1,0 +1,6 @@
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.pdb
+C:\Users\Koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache

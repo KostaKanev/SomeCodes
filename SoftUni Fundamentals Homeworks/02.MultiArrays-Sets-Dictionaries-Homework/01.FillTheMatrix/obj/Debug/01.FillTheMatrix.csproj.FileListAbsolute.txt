@@ -1,0 +1,6 @@
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+c:\users\koceto\documents\visual studio 2015\Projects\02.MultiArrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb
