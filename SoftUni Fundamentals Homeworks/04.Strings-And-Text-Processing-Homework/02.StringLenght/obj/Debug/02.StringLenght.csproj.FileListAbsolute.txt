@@ -1,0 +1,5 @@
+D:\visual studio 2013 Projects\04.Strings-And-Text-Processing-Homework\02.StringLenght\bin\Debug\02.StringLenght.exe.config
+D:\visual studio 2013 Projects\04.Strings-And-Text-Processing-Homework\02.StringLenght\bin\Debug\02.StringLenght.exe
+D:\visual studio 2013 Projects\04.Strings-And-Text-Processing-Homework\02.StringLenght\bin\Debug\02.StringLenght.pdb
+D:\visual studio 2013 Projects\04.Strings-And-Text-Processing-Homework\02.StringLenght\obj\Debug\02.StringLenght.exe
+D:\visual studio 2013 Projects\04.Strings-And-Text-Processing-Homework\02.StringLenght\obj\Debug\02.StringLenght.pdb
