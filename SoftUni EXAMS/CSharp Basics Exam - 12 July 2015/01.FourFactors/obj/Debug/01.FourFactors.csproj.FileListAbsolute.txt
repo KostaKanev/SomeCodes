@@ -7,3 +7,6 @@ D:\visual studio 2013 Projects\Programming Basics Exam - 12 July 2015\01.FourFac
 E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\01.FourFactors\bin\Debug\01.FourFactors.exe.config
 E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\01.FourFactors\obj\Debug\01.FourFactors.exe
 E:\Visual Studio Projects\From PC\Programming Basics Exam - 12 July 2015\01.FourFactors\obj\Debug\01.FourFactors.pdb
+E:\GitHub Repositories\SomeCodes\SoftUni EXAMS\CSharp Basics Exam - 12 July 2015\01.FourFactors\bin\Debug\01.FourFactors.exe.config
+E:\GitHub Repositories\SomeCodes\SoftUni EXAMS\CSharp Basics Exam - 12 July 2015\01.FourFactors\obj\Debug\01.FourFactors.exe
+E:\GitHub Repositories\SomeCodes\SoftUni EXAMS\CSharp Basics Exam - 12 July 2015\01.FourFactors\obj\Debug\01.FourFactors.pdb
