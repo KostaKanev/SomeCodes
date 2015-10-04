@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.csprojResolveAssemblyReference.cache

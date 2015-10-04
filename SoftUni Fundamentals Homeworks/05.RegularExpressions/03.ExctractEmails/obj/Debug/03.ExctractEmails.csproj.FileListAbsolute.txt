@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\03.ExctractEmails\bin\Debug\03.ExctractEmails.exe.config
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\03.ExctractEmails\obj\Debug\03.ExctractEmails.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\03.ExctractEmails\bin\Debug\03.ExctractEmails.exe
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\03.ExctractEmails\bin\Debug\03.ExctractEmails.pdb
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\03.ExctractEmails\obj\Debug\03.ExctractEmails.exe
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\03.ExctractEmails\obj\Debug\03.ExctractEmails.pdb

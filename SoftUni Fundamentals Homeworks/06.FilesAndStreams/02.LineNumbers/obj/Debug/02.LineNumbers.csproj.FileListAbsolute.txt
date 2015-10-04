@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\02.LineNumbers\bin\Debug\02.LineNumbers.exe.config
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\02.LineNumbers\bin\Debug\02.LineNumbers.exe
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\02.LineNumbers\bin\Debug\02.LineNumbers.pdb
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\02.LineNumbers\obj\Debug\02.LineNumbers.exe
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\02.LineNumbers\obj\Debug\02.LineNumbers.pdb

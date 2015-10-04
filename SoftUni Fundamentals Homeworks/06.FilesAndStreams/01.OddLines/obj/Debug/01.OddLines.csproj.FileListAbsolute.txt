@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\01.OddLines\bin\Debug\01.OddLines.exe.config
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\01.OddLines\bin\Debug\01.OddLines.exe
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\01.OddLines\bin\Debug\01.OddLines.pdb
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\01.OddLines\obj\Debug\01.OddLines.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\01.OddLines\obj\Debug\01.OddLines.exe
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\01.OddLines\obj\Debug\01.OddLines.pdb

@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe.config
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.pdb
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.exe
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.pdb

@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\05.SlicingFile\bin\Debug\05.SlicingFile.exe.config
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\05.SlicingFile\bin\Debug\05.SlicingFile.exe
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\05.SlicingFile\bin\Debug\05.SlicingFile.pdb
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\05.SlicingFile\obj\Debug\05.SlicingFile.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\05.SlicingFile\obj\Debug\05.SlicingFile.exe
+E:\Visual Studio Projects\Dell Projects\06.FilesAndStreams\05.SlicingFile\obj\Debug\05.SlicingFile.pdb

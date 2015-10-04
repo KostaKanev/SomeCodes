@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe.config
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.pdb
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.exe
+E:\Visual Studio Projects\Dell Projects\05.RegularExpressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.pdb

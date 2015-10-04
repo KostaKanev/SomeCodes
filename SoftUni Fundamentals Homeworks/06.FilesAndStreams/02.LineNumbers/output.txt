@@ -1,0 +1,6 @@
+    1 StreamReader is designed for character
+    2 input in a particular encoding, 
+    3 whereas the Stream class is designed
+    4 for byte input and output.
+    5 Use StreamReader for reading lines 
+    6 of information from a standard text file.
