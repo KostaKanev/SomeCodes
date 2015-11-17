@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\DefiningClasses\bin\Debug\DefiningClasses.exe.config
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\DefiningClasses\bin\Debug\DefiningClasses.exe
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\DefiningClasses\bin\Debug\DefiningClasses.pdb
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\DefiningClasses\obj\Debug\DefiningClasses.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\DefiningClasses\obj\Debug\DefiningClasses.exe
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\DefiningClasses\obj\Debug\DefiningClasses.pdb

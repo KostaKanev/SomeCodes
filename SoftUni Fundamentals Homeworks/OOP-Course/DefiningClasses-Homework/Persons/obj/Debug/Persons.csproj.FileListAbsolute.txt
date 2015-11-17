@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\Persons\bin\Debug\Persons.exe.config
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\Persons\bin\Debug\Persons.exe
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\Persons\bin\Debug\Persons.pdb
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\Persons\obj\Debug\Persons.exe
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\Persons\obj\Debug\Persons.pdb
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache

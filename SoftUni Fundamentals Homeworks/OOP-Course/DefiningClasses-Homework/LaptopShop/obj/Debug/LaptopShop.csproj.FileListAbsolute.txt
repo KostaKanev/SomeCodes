@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\LaptopShop\bin\Debug\LaptopShop.exe.config
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\LaptopShop\bin\Debug\LaptopShop.exe
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\LaptopShop\bin\Debug\LaptopShop.pdb
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\LaptopShop\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\LaptopShop\obj\Debug\LaptopShop.exe
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\LaptopShop\obj\Debug\LaptopShop.pdb
