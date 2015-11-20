@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\November 2015 Lab – Football League\Football League\bin\Debug\Football League.exe.config
+E:\Visual Studio Projects\Dell Projects\November 2015 Lab – Football League\Football League\bin\Debug\Football League.exe
+E:\Visual Studio Projects\Dell Projects\November 2015 Lab – Football League\Football League\bin\Debug\Football League.pdb
+E:\Visual Studio Projects\Dell Projects\November 2015 Lab – Football League\Football League\obj\Debug\Football League.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\November 2015 Lab – Football League\Football League\obj\Debug\Football League.exe
+E:\Visual Studio Projects\Dell Projects\November 2015 Lab – Football League\Football League\obj\Debug\Football League.pdb
