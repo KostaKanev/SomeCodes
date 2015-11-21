@@ -10,7 +10,7 @@ public class Laptop
     private int ram;
     private string graphicCard;
     private string hdd;
-    private int price;
+    private double price;
 
     private Battery battery;
 
@@ -19,7 +19,7 @@ public class Laptop
     }
 
     public Laptop(string model,string manufacturer, string processor,
-        int ram, string graphicCard, string hdd, int price, string batteryType, string batteryLife)
+        int ram, string graphicCard, string hdd, double price, string batteryType, string batteryLife)
     {
         if (model == "" || manufacturer == "" || 
             processor == "" || graphicCard == "" || hdd == "")
@@ -142,7 +142,7 @@ public class Laptop
         }
     }
 
-    public int Price
+    public double Price
     {
         get { return this.price; }
         set
@@ -164,6 +164,12 @@ public class Laptop
         set { this.battery.BatteryType = value; }
     }
 
+    public string BatteryLife
+    {
+        get { return this.battery.BatteryLife; }
+        set { this.battery.BatteryLife = value; }
+    }
+
     public override string ToString()
     {
         string model = string.Format("Model: {0}", this.model);
@@ -172,13 +178,13 @@ public class Laptop
         int ram = this.ram;
         string graphicCard = string.Format("Graphic Card: {0}", this.graphicCard);
         string hdd = string.Format("HDD: {0}", this.hdd);
-        int price = this.price;
+        double price = this.price;
         string batteryType = string.Format("Battery Type: {0}", this.battery.BatteryType);
         string batteryLife = string.Format("Battery Life: {0}", this.battery.BatteryLife);
 
-        string information = string.Format("{0}\n{1}\n{2}\nRam: {3}\n{4}\n{5}\n{6}\nPrice: {7}\n{8}\n{9}\n",
+        string information = string.Format("{0}\n{1}\n{2}\nRam: {3} GB\n{4}\n{5}\n{6}\n{7}\nPrice: {8:F2} lv.\n",
             model, manufacturer, processor, ram, graphicCard,
-            hdd, processor, price, batteryType, batteryLife);
+            hdd, batteryType, batteryLife, price);
         
         return information;
     }

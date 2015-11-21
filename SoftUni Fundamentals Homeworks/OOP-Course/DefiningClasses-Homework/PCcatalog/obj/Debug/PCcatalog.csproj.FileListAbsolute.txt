@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\PCcatalog\bin\Debug\PCcatalog.exe.config
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\PCcatalog\bin\Debug\PCcatalog.exe
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\PCcatalog\bin\Debug\PCcatalog.pdb
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\PCcatalog\obj\Debug\PCcatalog.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\PCcatalog\obj\Debug\PCcatalog.exe
+E:\Visual Studio Projects\Dell Projects\DefiningClasses-Homework\PCcatalog\obj\Debug\PCcatalog.pdb

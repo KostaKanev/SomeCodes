@@ -31,6 +31,11 @@ public class Battery
             {
                 throw new ArgumentException("Can't set null or empty value");
             }
+            else
+            {
+                this.batteryType = value;
+            }
+
         }
     }
     public string BatteryLife
@@ -41,6 +46,10 @@ public class Battery
             if (string.IsNullOrEmpty(value))
             {
                 throw new ArgumentException("Can't set null or empty value");
+            }
+            else
+            {
+                this.batteryLife = value;
             }
         }
     }
