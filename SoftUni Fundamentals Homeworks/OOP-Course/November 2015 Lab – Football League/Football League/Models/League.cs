@@ -31,5 +31,6 @@ public static class League
         {
             throw new InvalidOperationException("Match already exist for that league");
         }
+        Matches.Add(match);
     }
 }

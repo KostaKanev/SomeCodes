@@ -17,8 +17,8 @@ public static class LeagueManager
 
             case "AddMatch":
 
-                Team home = League.Teams.First(team => team.Name == inputArgs[2]);
-                Team away = League.Teams.First(team => team.Name == inputArgs[3]);
+                Team home = League.Teams.First(team => team.Name.Equals(inputArgs[2]));
+                Team away = League.Teams.First(team => team.Name.Equals(inputArgs[3]));
                 AddMatch(int.Parse(inputArgs[1]), home, away, int.Parse(inputArgs[4]), int.Parse(inputArgs[5]));
                 break;
 
@@ -81,7 +81,7 @@ public static class LeagueManager
         builder.Append("\nList Of Matches\n--------------\n");
         foreach (var item in League.Matches)
         {
-            builder.Append("asd");
+            builder.Append(string.Format("{0} VS {1}\n",item.HomeTeam.Name, item.AwayTeam.Name));
         }
         return builder.ToString();
     }
