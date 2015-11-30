@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\Dell Projects\OOP-InhiretanceAndAbstraction-Homework\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.exe.config
+E:\Visual Studio Projects\Dell Projects\OOP-InhiretanceAndAbstraction-Homework\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.exe
+E:\Visual Studio Projects\Dell Projects\OOP-InhiretanceAndAbstraction-Homework\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.pdb
+E:\Visual Studio Projects\Dell Projects\OOP-InhiretanceAndAbstraction-Homework\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Dell Projects\OOP-InhiretanceAndAbstraction-Homework\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.exe
+E:\Visual Studio Projects\Dell Projects\OOP-InhiretanceAndAbstraction-Homework\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.pdb
