@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point3D", "Point3D\Point3D.csproj", "{B72F5E5F-0039-4394-9376-407C95780B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geometry.csproj", "{447DD513-4903-406B-9579-55F9DD718F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B72F5E5F-0039-4394-9376-407C95780B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72F5E5F-0039-4394-9376-407C95780B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72F5E5F-0039-4394-9376-407C95780B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72F5E5F-0039-4394-9376-407C95780B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447DD513-4903-406B-9579-55F9DD718F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447DD513-4903-406B-9579-55F9DD718F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447DD513-4903-406B-9579-55F9DD718F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447DD513-4903-406B-9579-55F9DD718F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

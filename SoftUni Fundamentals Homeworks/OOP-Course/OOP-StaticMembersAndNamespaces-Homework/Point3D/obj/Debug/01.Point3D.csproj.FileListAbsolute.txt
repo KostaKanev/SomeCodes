@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\Dell Projects\OOP-StaticMembersAndNamespaces-Homework\Point3D\bin\Debug\Point3D.exe.config
+E:\Visual Studio Projects\Dell Projects\OOP-StaticMembersAndNamespaces-Homework\Point3D\obj\Debug\Point3D.exe
+E:\Visual Studio Projects\Dell Projects\OOP-StaticMembersAndNamespaces-Homework\Point3D\obj\Debug\Point3D.pdb
+E:\Visual Studio Projects\Dell Projects\OOP-StaticMembersAndNamespaces-Homework\Point3D\bin\Debug\Point3D.exe
+E:\Visual Studio Projects\Dell Projects\OOP-StaticMembersAndNamespaces-Homework\Point3D\bin\Debug\Point3D.pdb

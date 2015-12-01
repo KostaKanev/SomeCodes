@@ -1,0 +1,1 @@
+E:\Visual Studio Projects\Dell Projects\OOP-StaticMembersAndNamespaces-Homework\Geometry\bin\Debug\Geometry.exe.config
